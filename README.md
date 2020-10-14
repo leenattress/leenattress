@@ -1,3 +1,5 @@
+![Profile Header](profile-header.png)
+
 ### Hi there 👋
 
 <!--
