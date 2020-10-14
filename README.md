@@ -1,4 +1,4 @@
-![Profile Header](profile-header.png)
+![Profile Header](profile-header-png.png)
 
 ### Hi there 👋
 
