@@ -38,7 +38,7 @@
 <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aseprite.svg" />
 <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackaday.svg" />
 
-## I am Currently
+## I'm Currently
 
 - Working as a Senior Full Stack Developer at Leighton.
 - 🔭 I’m currently working on [sls scripts](https://github.com/leenattress/slsscripts) and [Lander UI Web Components](https://github.com/leenattress/lander-ui)
