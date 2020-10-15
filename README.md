@@ -4,39 +4,39 @@
 
 ## I'm Good At
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cypress.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ionic.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webcomponents-dot-org.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/storybook.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cypress.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ionic.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webcomponents-dot-org.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/storybook.svg" />
 
 ## I'm Into
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nintendo.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nintendoswitch.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wiiu.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sega.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/counter-strike.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aseprite.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackaday.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nintendo.svg" /> <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nintendoswitch.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wiiu.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sega.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/counter-strike.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aseprite.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackaday.svg" />
 
 ## I am Currently
 
