@@ -1,60 +1,61 @@
-![Profile Header](header.png)
+# Lee Nattress
 
-![Twitter](https://img.shields.io/twitter/follow/leenattress?style=social)
+## What I'm good at
+- Cutting the bullshit and getting things done.
+- AWS Cloud, operation and usage.
+- AWS Well-Architected Framework
+- True event-driven microservices
+- Deep knowledge of AWS Serverless offerings and how to use them
+- A Clear understanding of how to make a platform scale
+- How to keep a platform decoupled to allow velocity and parallel development.
+- Leading and teaching people how to build the right thing for the business.
+- Doing talks to inspire and align
 
-## I'm Good At
+## Skills Scattershot
+```mermaid
+quadrantChart
+    x-axis Low Interest --> High Interest
+    y-axis Low Skill --> High Skill
+    quadrant-1 Super exciting zone
+    quadrant-2 Wasted knowledge
+    quadrant-3 Super boring zone
+    quadrant-4 Learning zone
+    JS/TS: [0.7, 0.85]
+    NodeJs: [0.6, 0.7]
+    Monoliths: [0.5, 0.9]
+    System Design: [0.85, 0.4]
+    Microservices: [0.9, 0.9]
+    Event Driven Architecture: [0.8, 0.75]
+    Kubernates: [0.1, 0.2]
+    Writing: [0.7, 0.4]
+    Teaching: [0.8, 0.6]
+    PHP: [0.4, 0.4]
+    AWS: [0.7, 0.65]
+    Serverless: [0.9, 0.65]
+    Photoshop: [0.2, 0.8]
+    Ecommerce: [0.3, 0.7]
+    UI/UX: [0.3, 0.85]
+    Marketing: [0.4, 0.6]
+    Big Data: [0.8, 0.2]
+    AI/ML: [0.4, 0.2]
+```
 
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cypress.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ionic.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webcomponents-dot-org.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/storybook.svg" />
+## Professional Roles Timeline
+```mermaid
+timeline
+    2000-2018    : HTML Web developer
+                 : Ecommerce pro
+                 : Email Marketing guru
+                 : Photoshop connoisseur
+                 : Landing page genius
+    2018-2020    : Software Engineer
+                 : Senior Software Engineer
+    2020-2022    : Platform Team Lead
+    2022-Current : Cloud Architect
+                 : Enterprise Architect    
 
-## I'm Into
+```
 
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nintendo.svg" /> <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nintendoswitch.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wiiu.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sega.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/counter-strike.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aseprite.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackaday.svg" />
+## Projects
 
-## I'm Currently
-
-- Working as a Senior Full Stack Developer at Leighton.
-- 🔭 I’m currently working on [sls scripts](https://github.com/leenattress/slsscripts) and [Lander UI Web Components](https://github.com/leenattress/lander-ui)
-- 🌱 I’m currently learning [golang](https://github.com/leenattress/goshootygame) and ⚡[serverless](https://www.serverless.com/framework/docs/) !
-- 👯 Looking to collaborate on [Lander UI Web Components](https://github.com/leenattress/lander-ui). Give me some ideas on whats next!
-- 💬 Ask me about Pico-8 and Game dev.
-- 📫 How to reach me: [https://twitter.com/leenattress](https://twitter.com/leenattress)
-- 🎉 Fun facts
-    - I'm into Zelda, huge collection!
-    - 3D Printing, I'm into that.
-    - Game development, just for fun though.
-    - I own too many Raspberry Pi
-    - VR and Unity!
-    - I love books with 🚀 starships, robots 🤖 and/or lasers
-    - I collect loud shirts
-    - Blog: [http://www.leenattress.com/](http://www.leenattress.com/)
-    - Best cook in the entire universe 🌌
-
-
+- https://eventdriven.tools - Think POSTMAN for AWS Events
