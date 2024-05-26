@@ -52,7 +52,8 @@ timeline
                  : Senior Software Engineer
     2020-2022    : Platform Team Lead
     2022-Current : Cloud Architect
-                 : Enterprise Architect    
+                 : Enterprise Architect
+    ✨ Future ✨  : CTO 
 
 ```
 
