@@ -1,6 +1,10 @@
 # Lee Nattress
 
-## What I'm good at
+
+## 🚀 What I'm good at
+
+<img style="float: right; width: 200px; padding: 20px" alt="Lee and Goose, looking loose" src="https://eventdriven.tools/markdown/images/lee-profile.png">
+
 - Cutting the bullshit and getting things done.
 - AWS Cloud, operation and usage.
 - AWS Well-Architected Framework
@@ -11,7 +15,7 @@
 - Leading and teaching people how to build the right thing for the business.
 - Doing talks to inspire and align
 
-## Skills Scattershot
+## 💥 Skills Scattershot
 ```mermaid
 quadrantChart
     x-axis Low Interest --> High Interest
@@ -40,7 +44,7 @@ quadrantChart
     AI/ML: [0.4, 0.2]
 ```
 
-## Professional Roles Timeline
+## 📆 Professional Roles Timeline
 ```mermaid
 timeline
     2000-2018    : HTML Web developer
