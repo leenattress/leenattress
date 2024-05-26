@@ -3,7 +3,7 @@
 
 ## 🚀 What I'm good at
 
-<img align="right" width="200" height="200"  alt="Lee and Goose, looking loose" src="https://eventdriven.tools/markdown/images/lee-profile.png">
+<img align="right" width="200" style="padding:20px;" alt="Lee and Goose, looking loose" src="https://eventdriven.tools/markdown/images/lee-profile.png">
 
 - Cutting the bullshit and getting things done.
 - AWS Cloud, operation and usage.
