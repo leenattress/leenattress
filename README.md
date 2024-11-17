@@ -1,5 +1,3 @@
-## Lee Nattress
-
 ### CONTACT DETAILS
 - Email leenattress1981@gmail.com
 - LinkedIn [https://linkedin.com/in/leenattress/](https://linkedin.com/in/leenattress/)
