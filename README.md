@@ -4,7 +4,7 @@
 
 ## PERSONAL STATEMENT
 
-- I am a CTO / Cloud Architect with a special focus on Serverless Microservice Architecture. I have 20+ years of experience writing software that scales in production.
+- I am a Systems and Cloud Architect with a special focus on Serverless Microservice Architecture. I have 20+ years of experience writing software that scales in production.
 - I specialize in taking huge monoliths and breaking them down into decoupled microservices, as well as writing advanced tooling and bringing engineers along on the journey to get us to the value quicker.
 - I have a full stack of knowledge, including DevOps skills, such as pipelines and actions, automated deployments, bash scripting, and I'm an expert JavaScript serverless framework engineer.
 - I come from a technical engineering background, which means I can develop NodeJS backend applications and any JavaScript frontend applications, with full test suites, unit, integration, and end-to-end from first commit to deployment to production. I can pick up any language and framework quickly.
