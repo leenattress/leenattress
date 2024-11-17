@@ -4,8 +4,6 @@
 
 ## PERSONAL STATEMENT
 
-<img align="right" width="200" style="padding:20px;" alt="Lee and Goose, looking loose" src="https://eventdriven.tools/markdown/images/lee-profile.png">
-
 - I am a CTO / Cloud Architect with a special focus on Serverless Microservice Architecture. I have 20+ years of experience writing software that scales in production.
 - I specialize in taking huge monoliths and breaking them down into decoupled microservices, as well as writing advanced tooling and bringing engineers along on the journey to get us to the value quicker.
 - I have a full stack of knowledge, including DevOps skills, such as pipelines and actions, automated deployments, bash scripting, and I'm an expert JavaScript serverless framework engineer.
