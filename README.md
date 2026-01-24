@@ -2,6 +2,9 @@
 - Email leenattress1981@gmail.com
 - LinkedIn [https://linkedin.com/in/leenattress/](https://linkedin.com/in/leenattress/)
 
+![Psychological Safety](https://cultured.dev/api/certificate/ecb485b7d1b8/X_iQ1yAbSU/badge)
+![DORA Metrics Methodology](https://cultured.dev/api/certificate/ecb485b7d1b8/K3zdT7Nk2d/badge)
+
 ## PERSONAL STATEMENT
 
 - I am a Systems and Cloud Architect with a special focus on Serverless Microservice Architecture. I have 20+ years of experience writing software that scales in production.
