@@ -2,8 +2,11 @@
 - Email leenattress1981@gmail.com
 - LinkedIn [https://linkedin.com/in/leenattress/](https://linkedin.com/in/leenattress/)
 
-![Psychological Safety](https://cultured.dev/api/certificate/ecb485b7d1b8/X_iQ1yAbSU/badge)
-![DORA Metrics Methodology](https://cultured.dev/api/certificate/ecb485b7d1b8/K3zdT7Nk2d/badge)
+[![DORA Metrics Certificate - 92.0%](https://cultured.dev/api/certificate/ecb485b7d1b8/K3zdT7Nk2d/badge)](https://cultured.dev/profiles/ecb485b7d1b8/K3zdT7Nk2d)
+[![Good Code Certificate - 100.0%](https://cultured.dev/api/certificate/ecb485b7d1b8/CRdp2Ze0XN/badge)](https://cultured.dev/profiles/ecb485b7d1b8/CRdp2Ze0XN)
+[![Psychological Safety Certificate - 88.0%](https://cultured.dev/api/certificate/ecb485b7d1b8/X_iQ1yAbSU/badge)](https://cultured.dev/profiles/ecb485b7d1b8/X_iQ1yAbSU)
+[![Agile Behaviors Certificate - 88.0%](https://cultured.dev/api/certificate/ecb485b7d1b8/OGmsi9v0PO/badge)](https://cultured.dev/profiles/ecb485b7d1b8/OGmsi9v0PO)
+
 
 ## PERSONAL STATEMENT
 
