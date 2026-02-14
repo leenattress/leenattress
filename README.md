@@ -2,7 +2,9 @@
 - Email leenattress1981@gmail.com
 - LinkedIn [https://linkedin.com/in/leenattress/](https://linkedin.com/in/leenattress/)
 
-[![Communication Certificate - 88.0%](https://cultured.dev/api/certificate/ecb485b7d1b8/hGyHpcKp4J/badge)](https://cultured.dev/profiles/ecb485b7d1b8/hGyHpcKp4J)
+[![Communication Certificate - 92.0%](https://cultured.dev/api/certificate/ecb485b7d1b8/Q_TFpxb72L/badge)](https://cultured.dev/profiles/ecb485b7d1b8/Q_TFpxb72L)
+
+[![Emotional Intelligence Certificate - 80.0%](https://cultured.dev/api/certificate/ecb485b7d1b8/zkLaEILL6Q/badge)](https://cultured.dev/profiles/ecb485b7d1b8/zkLaEILL6Q)
 
 ## PERSONAL STATEMENT
 
