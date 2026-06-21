@@ -1,7 +1,16 @@
 ### CONTACT DETAILS
-
 - Email leenattress1981@gmail.com
 - LinkedIn [https://linkedin.com/in/leenattress/](https://linkedin.com/in/leenattress/)
+
+## THINGS I'M PROUD OF
+
+| Project | Description | Link |
+|---|---|---|
+| **Book: The Cultured Dev** | A practical guide to the people skills that shape engineering careers: communication, conflict handling, leadership, and resilience under pressure. | [View on Amazon](https://www.amazon.co.uk/Cultured-Dev-missing-manual-working/dp/B0H268KC48/) |
+| **Website: Skilly** | A team platform for measuring capability, mapping role expectations, and tracking development through structured check-ins. | [Visit skilly.dev](https://www.skilly.dev/) |
+| **Website: The Cultured Developer** | The companion website to *The Cultured Dev* book, with practical assessments and verifiable certificates that showcase real soft-skill capability. | [Visit cultured.dev](https://cultured.dev/) |
+
+---
 
 ## PERSONAL STATEMENT
 
@@ -22,7 +31,6 @@ As for leadership, I have done many talks about development and being an enginee
 I write video games and love sci-fi, anything that has spaceships, robots, and laser beams. I read a lot of books; I loved **The Phoenix Project**, **Domain-Driven Design**, **Modern Software Engineering**, and **Accelerate**. I build things with Arduinos and I own *far too many soldering irons*.
 
 ## SKILLS
-
 - Cutting through the noise and getting things done.
 - AWS Cloud, operation, and usage.
 - Azure Cloud architecture and operations.
@@ -75,11 +83,11 @@ I write video games and love sci-fi, anything that has spaceships, robots, and l
 - Created documentation across the platform, including event contracts for inter-service communication.
 - Delivered talks, learning lunches, and think-tanks.
 
-> December 2020 - June 2022
-
 ### Architect - Workcast, Gateshead
 
-- Architected a serverless broadcasting and streaming system for webinars in AWS.
+> December 2020 - June 2022
+
+- Architected a serverless broadcasting and streaming system for webinars in AWS using the same technology as Twitch.
 - Created a digital stage where clients could plan and deliver webinars.
 - Created a web browser-based video editor for broadcast content.
 - Moved deployments from monthly to daily.
@@ -87,9 +95,9 @@ I write video games and love sci-fi, anything that has spaceships, robots, and l
 - Completed multiple software projects with strict goals to receive grants on behalf of the company.
 - Delivered talks at events such as Serverless North East.
 
-> March 2018 - December 2020
-
 ### Senior Software Engineer - Leighton, Gateshead
+
+> March 2018 - December 2020
 
 - Full Stack engineer with functional, security, and penetration testing.
 - Worked with teams to deliver very high-quality software.
@@ -98,9 +106,9 @@ I write video games and love sci-fi, anything that has spaceships, robots, and l
 - DevOps experience with pipelines and advanced Bash scripting.
 - Heavy focus on automation and tooling.
 
-> ~2000 - 2018
-
 ### Various other contributing roles
+
+> ~2000 - 2018
 
 - Ecommerce specialist for several multi-million pound online stores.
 - Paid search and social advertising expert with analytics dashboards and conversion metrics for ecommerce.
@@ -149,13 +157,17 @@ timeline
                  : Landing page genius
     2018-2020    : Software Engineer
                  : Senior Software Engineer
-    2020-2022    : Platform Team Lead
-    2022-Current : Cloud Architect
-                 : Enterprise Architect
+    2020-2022    : Architect
+    2022-2024    : Cloud Architect
+    2024-Current : Principal Architect
     ✨ Future ✨  : CTO 
 
 ```
 
-## Projects
+## Recent Projects
 
 - https://eventdriven.tools - Think POSTMAN for AWS Events
+- https://www.skilly.dev - Skills assessment and career progression platform for tech teams
+- http://cultured.dev - Developer culture and professional competency certification platform
+- https://www.quak.dev - SQL query tool for CSV and Parquet files in the browser
+- https://github.com/leenattress/obsidian-plugin-dynamodb - Query AWS DynamoDB tables directly from your Obsidian.md documentation
